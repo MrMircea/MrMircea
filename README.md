@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrMircea
+- 👋 Hi, I’m Mr.Mi
 - 👀 I’m interested in Python and Django
 - 🌱 I’m currently learning Python and Django
 - 💞️ I am looking to collaborate on personal medical innovation projects.
